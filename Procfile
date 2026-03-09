@@ -1,0 +1,1 @@
+web: npx paperclipai start
